@@ -1,6 +1,7 @@
 # glintanylatics_tweet
-basically a twitter thread about 'GLINT'
-##below is the asked twitter thread about glint analytics. Hope it is well enough to get into ranks.
+Basically a twitter thread about 'GLINT'
+-------------------------------------------------------------------------------------------------------
+##Below is the asked twitter thread about glint analytics. Hope it is well enough to get into ranks.
 -------------------------------------------------------------------------------------------------------
 
 🌟 Discover the power of crypto analysis with Glint! Our simple, AI-based analytics tool helps you make better and quicker choices in the fast-changing world of Web3. #GlintAnalytics #CryptoKnowledge #Web3Change
